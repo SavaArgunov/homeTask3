@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
       child: ListTile(
         title: Text(
           "$name : $value",
-          style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold),
         ),
       ),
     );
